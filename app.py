@@ -59,7 +59,7 @@ def draw_gauge(score, label_tibo):
     return fig
 
 # --- ANTARMUKA STREAMLIT ---
-st.title("🔮 AI Hybrid Weton Predictor")
+st.title("🔮 DUKUN GEN-Z AI Hybrid Weton Predictor")
 st.write("Analisis kecocokan pasangan berdasarkan Primbon Jawa dan AI Sentiment Analysis.")
 
 col1, col2 = st.columns(2)
